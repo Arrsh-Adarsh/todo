@@ -1,0 +1,10 @@
+ ${AnsiColor.RED} ${AnsiStyle.BOLD} ${AnsiBackground.YELLOW}
+       _____         _         _     _     _    __  __  
+  /\\ |_   _|__   __| | ___   | |   (_)___| |_  \ \ \ \ 
+ ( ( )  | |/ _ \ / _` |/ _ \  | |   | / __| __|  \ \ \ \
+  \\/   | | (_) | (_| | (_) | | |___| \__ \ |_   / / / /
+   '    |_|\___/ \__,_|\___/  |_____|_|___/\__| /_/ /_/ 
+                                                        
+${AnsiBackground.DEFAULT} ${AnsiColor.DEFAULT}
+${info.app.name}-(${info.app.version})
+Powered by Spring Boot-${spring-boot.formatted-version}                       
