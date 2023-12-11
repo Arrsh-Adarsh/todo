@@ -12,7 +12,7 @@
 		</fieldset>	
 		
 		<fieldset class="row mb-3"> 
-			<form:label path = "startDate" class="col-1">Target Date</form:label>
+			<form:label path = "startDate" class="col-1">Start Date</form:label>
 			<form:input type="text" path="startDate" required="required" class="col-2"/>
 			<form:errors path="startDate" cssClass="text-danger col-5"></form:errors>	
 		</fieldset>	
